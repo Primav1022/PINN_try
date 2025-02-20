@@ -1,1 +1,1 @@
-Using neural networks to fit the functions sin (2π x) and sin (10π x) using different hidden layer and activation functions, with an analysis of different hyperparameter's effectiveness and their Loss curves.
+Using neural networks to fit the functions sin (2π x) and sin (10π x) using different hidden layer and activation functions, with an analysis of different hyperparameter's effectiveness and their L2 visualization.
